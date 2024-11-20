@@ -1,0 +1,355 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+<center>
+### Work experience
+</center>
+
+
+:::: {layout="[10, 0, 20,70]"}
+
+::: {#second-column}
+![](logos/logo_unicatt.png)
+:::
+
+::: {#middle-column}
+
+:::
+
+::: {#date-column}
+<br>
+2025/01 - Ongoing
+<br>
+:::
+
+::: {#fourth-column}
+**Associate Professor**   
+Department of Statistical Sciences    
+*Università Cattolica del Sacro Cuore*  
+:::
+::::
+
+
+:::: {layout="[10, 0, 20,70]"}
+
+::: {#second-column}
+![](logos/logo_unimi.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+2024/02 - 2024/12
+<br>
+:::
+
+::: {#first-column}
+**Assistant Professor (RTD-B)**   
+Department of Economics, Management, and Quantitative Methods   
+*University of Milan*  
+:::
+::::
+
+:::: {layout="[10, 0, 20,70]"}
+
+::: {#second-column}
+![](logos/logo_polimi.png){width=19in,height=200}
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+2021/04 - 2024/01
+<br>
+:::
+
+::: {#first-column}
+**Assistant Professor (RTD-A)**   
+Department of Mathematics   
+*Politecnico di Milano*  
+:::
+::::
+
+:::: {layout="[10, 0, 20,70]"}
+
+::: {#second-column}
+![](logos/logo_unimib.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+2020/04 - 2021/03
+<br>
+:::
+
+::: {#first-column}
+**Postdoctoral research fellow**    
+Department of Statistics and Quantitative Methods   
+*University of Milano-Bicocca*  
+:::
+::::
+
+:::: {layout="[10, 0, 20,70]"}
+
+::: {#second-column}
+![](logos/logo_hp.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+2015/09 - 2016/10
+<br>
+:::
+
+::: {#first-column}
+**Business analyst and planner**    
+*HP Inc, Barcelona*   
+:::
+::::
+
+<center>
+### Education
+</center>
+
+:::: {layout="[10, 0, 20,70]"}
+
+::: {#second-column}
+![](logos/logo_unimib.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+2016/11 - 2020/02
+<br>
+:::
+
+::: {#first-column}
+**Ph.D. in Statistics and Mathematical Finance**    
+Doctor Europaeus    
+*University of Milano-Bicocca*
+:::
+
+
+::::
+
+:::: {layout="[10, 0, 20,70]"}
+
+
+::: {#second-column}
+![](logos/logo_unipd.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+2012/10 - 2015/04
+<br>
+:::
+
+::: {#first-column}
+**M.Sc. in Statistical Sciences**   
+Final mark: 110/110 with laude    
+*University of Padua*
+:::
+
+
+::::
+
+:::: {layout="[10, 0, 20,70]"}
+
+::: {#second-column}
+![](logos/logo_unipd.png)
+:::
+
+
+::: {#middle-column}
+:::
+
+
+::: {#date-column}
+<br>
+2009/10 - 2012/07
+<br>
+:::
+
+::: {#first-column}
+**B.Sc. in Statistics and Management**    
+Final mark: 110/110 with laude    
+*University of Padua*
+:::
+
+
+::::
+
+
+<center>
+### Visiting periods
+</center>
+:::: {layout="[10, 0, 20,70]"}
+
+::: {#second-column}
+![](logos/logo_UCD.png)
+:::
+
+
+::: {#middle-column}
+:::
+
+
+::: {#date-column}
+<br>
+2018/03 - 2019/03
+<br>
+:::
+
+::: {#first-column}
+**Visiting PhD Student**    
+School of Mathematics and Statistics    
+*University College Dublin*
+:::
+
+
+::::
+
+:::: {layout="[10, 0, 20,70]"}
+
+::: {#second-column}
+![](logos/logo_tilburg.png)
+:::
+
+
+::: {#middle-column}
+:::
+
+
+::: {#date-column}
+<br>
+2014/01 - 2014/06
+<br>
+:::
+
+::: {#first-column}
+**Exchange Semester**   
+School of Economics and Management    
+*Tilburg University*
+:::
+
+
+::::
+
+<center>
+### Awards
+</center>
+
+
+:::: {layout="[10,90]"}
+
+::: {#middle-column}
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+2023/09
+<br>
+:::
+
+::: {#first-column}
+**Young Researcher Paper Award**  
+CLADAG 2023 14-th Scientific Meeting Classification and Data Analysis Group     
+*Salerno, Italy*
+:::
+
+
+::::
+:::: {layout="[10,90]"}
+
+::: {#middle-column}
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+2018/09
+<br>
+:::
+
+::: {#first-column}
+**Best poster presentation**  
+MBC<sup>2</sup> Workshop on Models and Learning for Clustering and Classification  
+*Catania, Italy*
+:::
+
+
+::::
+
+:::: {layout="[10,90]"}
+
+::: {#middle-column}
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+2017/09
+<br>
+:::
+
+::: {#first-column}
+**Member of the third best team in terms of algorithm predictive accuracy**       
+Young CLADAG - Data science competition   
+*Politecnico di Milano, Italy*  
+:::
+
+
+::::
+
+:::: {layout="[10,90]"}
+
+::: {#middle-column}
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+2017/06
+<br>
+:::
+
+::: {#first-column}
+**Member of one of the four winning teams**         
+Stats Under the Stars 3 - Data science competition   
+*Università degli Studi di Firenze, Italy* 
+
+:::
+
+
+::::
+
+
+

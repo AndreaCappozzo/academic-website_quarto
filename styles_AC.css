@@ -1,0 +1,44 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Gill Sans", sans-serif !default; 
+
+// Main colors
+$body-bg: #ffffff !default;
+$body-color: #35383a !default;
+$selection-bg: #fff !default;
+$link-color: #71a4c9; 
+
+// Title colors
+$headings-color: #35383a; 
+
+// Navigation bar colors
+
+$navbar-bg: #71a4c9;
+$navbar-fg: #ffffff;
+$navbar-hl: #35383a;
+
+
+// Footer colors
+
+$footer-bg: #71a4c9;
+$footer-fg: #ffffff;
+
+// Extra details
+
+
+a:hover {
+    font-weight: bold;
+    color: #35383a;
+}
+
+a:link {
+    font-weight: bold;
+    text-decoration: none;
+    color: 71a4c9;
+}
+
+a:visited {
+    text-decoration: none;
+    color: 71a4c9;
+}

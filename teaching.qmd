@@ -1,0 +1,230 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+<center>
+### Principal Instructor
+</center>
+
+
+:::: {layout="[10, 0, 25,65]"}
+
+::: {#second-column}
+![](logos/logo_unimi.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+<center>
+A.Y. 2024/2025
+</center>
+<br>
+:::
+
+::: {#first-column}
+**Advanced Multivariate Statistics**   
+M.Sc. in Data Science for Economics   
+*University of Milan*  
+:::
+::::
+
+:::: {layout="[10, 0, 25,65]"}
+
+::: {#second-column}
+![](logos/logo_unimi.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+<center>
+A.Y. 2024/2025
+</center>
+<br>
+:::
+
+::: {#first-column}
+**Coding for Data Science and Data Management (R coding module)**   
+M.Sc. in Data Science for Economics   
+*University of Milan*  
+:::
+::::
+
+:::: {layout="[10, 0, 25,65]"}
+
+::: {#second-column}
+![](logos/logo_unimi.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+<center>
+A.Y. 2023/2024
+</center>
+<br>
+:::
+
+::: {#first-column}
+**Statistica per big data economico/aziendali**   
+B.Sc. in Economics and Management     
+*University of Milan*  
+:::
+::::
+
+:::: {layout="[10, 0, 25,65]"}
+
+::: {#second-column}
+![](logos/logo_polimi.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+<center>
+A.Y. 2021/2022 - A.Y. 2023/2024
+</center>
+<br>
+:::
+
+::: {#first-column}
+**Biostatistics**   
+M.Sc. in Bioinformatics for Computational Genomics    
+*University of Milan & Politecnico di Milano*  
+:::
+::::
+
+:::: {layout="[10, 0, 25,65]"}
+
+::: {#second-column}
+![](logos/logo_polimi.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+<center>
+A.Y. 2021/2022 - A.Y. 2023/2024
+</center>
+<br>
+:::
+
+::: {#first-column}
+**Nonparametric Statistics (Robust statistics module)**   
+M.Sc. in Mathematical Engineering   
+*Politecnico di Milano*  
+:::
+::::
+
+
+<center>
+### Teaching Assistant
+</center>
+
+:::: {layout="[10, 0, 25,65]"}
+
+::: {#second-column}
+![](logos/logo_polimi.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+<center>
+A.Y. 2021/2022 - A.Y. 2022/2023
+</center>
+<br>
+:::
+
+::: {#first-column}
+**Nonparametric Statistics**   
+M.Sc. in Mathematical Engineering   
+*Politecnico di Milano*  
+:::
+::::
+
+:::: {layout="[10, 0, 25,65]"}
+
+::: {#second-column}
+![](logos/logo_unimib.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+<center>
+A.Y. 2019/2020 - A.Y. 2021/2022
+</center>
+<br>
+:::
+
+::: {#first-column}
+**Statistica**   
+B.Sc. in Economics and Business   
+*University of Milano-Bicocca*   
+:::
+::::
+
+:::: {layout="[10, 0, 25,65]"}
+
+::: {#second-column}
+![](logos/logo_unimib.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+<center>
+A.Y. 2019/2020 - A.Y. 2020/2021
+</center>
+<br>
+:::
+
+::: {#first-column}
+**Metodi Statistici**   
+B.Sc. in Economics and Business   
+*University of Milano-Bicocca*   
+:::
+::::
+
+:::: {layout="[10, 0, 25,65]"}
+
+::: {#second-column}
+![](logos/logo_bocconi.svg)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+<center>
+A.Y. 2017/2018
+</center>
+<br>
+:::
+
+::: {#first-column}
+**Statistica**   
+B.Sc. in Economics    
+*Bocconi University*   
+:::
+::::

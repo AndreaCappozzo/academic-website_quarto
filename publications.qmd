@@ -1,0 +1,91 @@
+
+### Preprints
+
+1. **Cappozzo, A.**, Casa, A. (2024+)  
+Model-based clustering for covariance matrices via penalized Wishart mixture models   
+*Submitted*   
+[{{< ai arxiv >}}](https://arxiv.org/abs/2408.17040) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/sparsemixwishart)
+
+1. Caldera, L., Masci, C., **Cappozzo, A.**, Forlani, M., Antonelli, B., Leoni, O., Ieva, F. (2024+)  
+Uncover mortality patterns and hospital effects in COVID-19 heart failure patients: a novel Multilevel logistic cluster-weighted modeling approach  
+*Submitted*   
+[{{< ai arxiv >}}](https://arxiv.org/abs/2405.11239) | [{{< fa brands r-project >}}](https://github.com/luca2245/ML-CWMd)
+
+
+### Articles in Peer-Reviewed Journals (Statistics)
+
+1. **Cappozzo, A.**, Casa, A., Fop, M. (2024)  
+Sparse model-based clustering of three-way data via lasso-type penalties  
+*Journal of Computational and Graphical Statistics (just accepted)*     
+[{{< fa book >}} ](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2429705) | [{{< ai arxiv >}}](https://arxiv.org/abs/2307.10673) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/sparsemixmat)
+
+1. Montani, G., **Cappozzo, A.** (2024)    
+Stacking model-based classifiers for dealing with multiple sets of noisy labels         
+*Biometrical Journal (just accepted)*  
+[{{< fa book >}} ](FIXME) | [{{< fa brands github >}}](https://github.com/GiuliaMontani/density-based-ensemble-model)
+
+1. Carlesso, L.M., **Cappozzo, A.**, Manisera, M., Zuccolotto, P. (2024)    
+Scoring probability maps in the basketball court with Indicator Kriging estimation         
+*Computational Statistics (just accepted)*  
+[{{< fa book >}} ](https://link.springer.com/article/10.1007/s00180-024-01564-4) | [{{< fa basketball >}} Shiny App](https://b9fagl-mirkoluigi99.shinyapps.io/census-app/)
+
+1. Benetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., **Cappozzo, A.**, Denti, F. (2023)    
+Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets         
+*Advances in Data Analysis and Classification, 18, 681–703*  
+[{{< fa book >}} ](https://link.springer.com/article/10.1007/s11634-023-00569-z) | [{{< ai arxiv >}}](https://arxiv.org/abs/2212.01865) | [{{< fa brands github >}}](https://github.com/JacopoGhirri/VarBRAND)
+
+1. **Cappozzo, A.**, Ieva, F., Fiorito, G. (2023)  
+A general framework for penalized mixed-effects multitask learning with applications on DNA methylation surrogate biomarkers creation   
+*Annals of Applied Statistics 17(4), 3257-3282*   
+[{{< fa book >}}](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-4/A-general-framework-for-penalized-mixed-effects-multitask-learning-with/10.1214/23-AOAS1760.short) | [{{< ai arxiv >}}](https://arxiv.org/abs/2112.12719) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/emlmm)
+
+1. **Cappozzo, A.**, García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2023)  
+Graphical and computational tools to guide parameter choice for the cluster weighted robust model  
+*Journal of Computational and Graphical Statistics 32(3),1195–1214*  
+[{{< fa book >}}](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2154218) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/CWRMmonitor)  
+
+1. Casa, A., **Cappozzo, A.**, Fop, M. (2022)  
+Group-wise shrinkage estimation in penalized model-based clustering   
+*Journal of Classification, 39(3), 648–674.*   
+[{{< fa book >}}](https://link.springer.com/article/10.1007/s00357-022-09421-z) | [{{< ai arxiv >}}](https://arxiv.org/abs/2105.07935) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/sparsemix)
+
+1. **Cappozzo, A.**, García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2021)  
+Parameter Choice, Stability and Validity for Robust Cluster Weighted Modeling   
+*Stats 2021, 4(3)*  
+[{{< fa book >}}](https://www.mdpi.com/2571-905X/4/3/36) | [{{< fa brands github >}}](https://github.com/AndreaCappozzo/STATS-monitoring_CWRM)  
+
+1. Denti, F., **Cappozzo, A.**, Greselin, F. (2021)  
+A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information   
+*Statistics and Computing, 32, 18*  
+[{{< fa book >}}](https://link.springer.com/article/10.1007%2Fs11222-021-10017-7) | [{{< ai arxiv >}}](https://arxiv.org/abs/2006.09012) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/brand-public_repo)  
+
+1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2021)  
+Robust variable selection for model-based learning
+in presence of adulteration  
+*Computational Statistics & Data Analysis, 158, 107186*   
+[{{< fa book >}} ](https://www.sciencedirect.com/science/article/abs/pii/S0167947321000207) | [{{< ai arxiv >}}](https://arxiv.org/abs/2007.14810) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/varselEMST)  
+
+1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2020)  
+Anomaly and Novelty detection for robust semi-supervised learning.  
+*Statistics and Computing, 30, 1545–1571*  
+[{{< fa book >}} ](https://link.springer.com/article/10.1007%2Fs11222-020-09959-1) | [{{< ai arxiv >}}](https://arxiv.org/abs/1911.08381) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/raedda)  
+
+1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2020)  
+A robust approach to model-based classification based on trimming and constraints.  
+*Advances in Data Analysis and Classification, 14(2), 327-354*   
+[{{< fa book >}} ](https://link.springer.com/article/10.1007/s11634-019-00371-w) | [{{< ai arxiv >}}](http://arxiv.org/abs/1904.06136) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/rupclass)
+
+
+### Articles in Peer-Reviewed Journals (Cross-Disciplinary)
+
+1. **Cappozzo, A.**, McCrory, C., Robinson, O. et al. (2022)  
+A blood DNA methylation biomarker for predicting short-term risk of cardiovascular events   
+*Clinical Epigenetics 14, 121*   
+[{{< fa book >}}](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01341-4) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/mixedelnet)
+
+1. **Cappozzo, A.**, Duponchel, L., Greselin, F., Murphy, T.B. (2021)  
+Robust variable selection in the framework of classification with label noise and outliers: applications to spectroscopic data in agri-food   
+*Analytica Chimica Acta, 1153, 338245*   
+[{{< fa book >}} ](https://www.sciencedirect.com/science/article/abs/pii/S0003267021000714) | [{{< ai arxiv >}}](https://arxiv.org/abs/2010.10415) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/varselTBIC) | [{{< fa solid image >}} Cover](files/Outside-Front-Cover_2021_Analytica-Chimica-Acta.pdf) 
+
+For a full list of publications, including monographs and peer-reviewed conference proceedings, please see my [CV](files/CV_andrea_cappozzo.pdf).

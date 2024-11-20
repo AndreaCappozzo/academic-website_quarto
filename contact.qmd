@@ -1,0 +1,9 @@
+**Andrea Cappozzo**\
+Department of Statistical Sciences\
+Università Cattolica del Sacro Cuore\
+{{< fa solid location-dot >}} Largo Gemelli, 1 20123 Milano\
+{{< fa solid building-columns >}} Edificio Lanzone, 18 - Third floor \
+{{< fa envelope >}} andrea (dot) cappozzo (at) unicatt (dot) it\
+
+
+![](files/map.png){fig-align="center"}

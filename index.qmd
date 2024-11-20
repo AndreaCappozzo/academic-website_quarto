@@ -1,0 +1,62 @@
+---
+title: "Andrea Cappozzo"
+image: avatar.JPG
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope-at
+      # text: "Email address"
+      href: mailto:andrea.cappozzo@unimi.it
+    - icon: twitter
+      # text: "Twitter"
+      href: https://twitter.com/AndreaCappozzo
+    - icon: google-scholar
+      # text: "{{< ai google-scholar >}} Google Scholar"
+      text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?hl=it&view_op=list_works&gmla=AP6z3OZgOhc09-qfSKoeqz524YlC9an53POnmD1w7mNaO_L-bFbamJ1VXGHRuQOMpkeLkk8uh7P-lgwxXwvfwm9K&user=UhnUw5UAAAAJ
+    - icon: github
+      # text: "Github"
+      href: https://github.com/AndreaCappozzo
+    - icon: linkedin
+      # text: "LinkedIn"
+      href: https://www.linkedin.com/in/cappozzoandrea/
+    - icon: cv
+      text: "{{< ai cv >}}"
+      href: files/CV_andrea_cappozzo.pdf
+---
+
+::: {#hero-heading}
+<center>
+### About me 
+</center>
+I am an Associate Professor of Statistics at the [Department of Statistical Sciences](https://dipartimenti.unicatt.it/scienze-statistiche-home) of [Università Cattolica del Sacro Cuore](https://www.unicatt.it/en.html). I am currently based in Milan, Italy. My research focuses on applied statistics and statistical learning, with a particular emphasis on mixture modeling.
+
+<center>
+### Research interests
+</center>
+
+:::: {layout="[60, 40]"}
+::: {#first-column}
+* Mixture models
+* Model-based clustering and classification
+* Robust statistics
+:::
+
+
+::: {#second-column}
+* Penalized estimation
+* Variable selection
+* Health Analytics
+:::
+
+::::
+
+<center>
+### Breaking news
+</center>
+* [New Preprint!](https://arxiv.org/abs/2408.17040) Model-based clustering for covariance matrices via penalized Wishart mixture models   (joint work with Casa, A.) 
+
+:::
+
