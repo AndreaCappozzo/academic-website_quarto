@@ -56,7 +56,11 @@ I am an Associate Professor of Statistics at the [Department of Statistical Scie
 <center>
 ### Breaking news
 </center>
-* [New Preprint!](https://arxiv.org/abs/2408.17040) Model-based clustering for covariance matrices via penalized Wishart mixture models   (joint work with Casa, A.) 
+* Starting January 1, 2025, I have joined the Department of Statistical Sciences at Università Cattolica del Sacro Cuore as an Associate Professor of Statistics!
+
+* [New article!](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2429705) Sparse model-based clustering of three-way data via lasso-type penalties (joint work with Casa, A. and Fop, M.)    
+
+* [New article!](https://link.springer.com/article/10.1007/s00180-024-01564-4) Scoring probability maps in the basketball court with Indicator Kriging estimation (joint work with Carlesso, L. M., Manisera, M. and Zuccolotto, P.) 
 
 :::
 

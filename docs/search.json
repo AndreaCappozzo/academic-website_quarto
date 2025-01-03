@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Andrea Cappozzo",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Home",
     "section": "",
-    "text": "About me\n\nI am an Associate Professor of Statistics at the Department of Statistical Sciences of Università Cattolica del Sacro Cuore. I am currently based in Milan, Italy. My research focuses on applied statistics and statistical learning, with a particular emphasis on mixture modeling.\n\n\nResearch interests\n\n\n\n\n\n\n\nMixture models\nModel-based clustering and classification\nRobust statistics\n\n\n\n\nPenalized estimation\nVariable selection\nHealth Analytics\n\n\n\n\n\n\nBreaking news\n\n\nNew Preprint! Model-based clustering for covariance matrices via penalized Wishart mixture models (joint work with Casa, A.)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Author",
-    "section": "",
-    "text": "Template for about page\n\n\n\nIt is possible to use different templates for the About page. Check this link to find out more."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Author",
-    "section": "Education",
-    "text": "Education\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\nUniversity of Oslo | Oslo, Norway\nMSc in Statistics | June 2018"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Author",
-    "section": "Experience",
-    "text": "Experience\nI have developed X R packages, published Y papers."
+    "text": "Preprints\n\nCappozzo, A., Casa, A. (2024+)\nModel-based clustering for covariance matrices via penalized Wishart mixture models\nSubmitted\n | \nCaldera, L., Masci, C., Cappozzo, A., Forlani, M., Antonelli, B., Leoni, O., Ieva, F. (2024+)\nUncover mortality patterns and hospital effects in COVID-19 heart failure patients: a novel Multilevel logistic cluster-weighted modeling approach\nSubmitted\n |  |  Shiny App\n\n\n\nArticles in Peer-Reviewed Journals (Statistics)\n\n\n\n\n\nCappozzo, A., Casa, A., Fop, M. (2024)\nSparse model-based clustering of three-way data via lasso-type penalties\nJournal of Computational and Graphical Statistics (just accepted)\n |  | \nCarlesso, L.M., Cappozzo, A., Manisera, M., Zuccolotto, P. (2024)\nScoring probability maps in the basketball court with Indicator Kriging estimation\nComputational Statistics (just accepted)\n |  Shiny App\nBenetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo, A., Denti, F. (2024)\nVariational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets\nAdvances in Data Analysis and Classification, 18, 681–703\n |  | \nCappozzo, A., Ieva, F., Fiorito, G. (2023)\nA general framework for penalized mixed-effects multitask learning with applications on DNA methylation surrogate biomarkers creation\nAnnals of Applied Statistics 17(4), 3257-3282\n |  | \nCappozzo, A., García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2023)\nGraphical and computational tools to guide parameter choice for the cluster weighted robust model\nJournal of Computational and Graphical Statistics 32(3),1195–1214\n | \nCasa, A., Cappozzo, A., Fop, M. (2022)\nGroup-wise shrinkage estimation in penalized model-based clustering\nJournal of Classification, 39(3), 648–674.\n |  | \nCappozzo, A., García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2021)\nParameter Choice, Stability and Validity for Robust Cluster Weighted Modeling\nStats 2021, 4(3)\n | \nDenti, F., Cappozzo, A., Greselin, F. (2021)\nA Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information\nStatistics and Computing, 32, 18\n |  | \nCappozzo, A., Greselin, F., Murphy, T.B. (2021)\nRobust variable selection for model-based learning in presence of adulteration\nComputational Statistics & Data Analysis, 158, 107186\n |  | \nCappozzo, A., Greselin, F., Murphy, T.B. (2020)\nAnomaly and Novelty detection for robust semi-supervised learning.\nStatistics and Computing, 30, 1545–1571\n |  | \nCappozzo, A., Greselin, F., Murphy, T.B. (2020)\nA robust approach to model-based classification based on trimming and constraints.\nAdvances in Data Analysis and Classification, 14(2), 327-354\n |  | \n\n\n\nArticles in Peer-Reviewed Journals (Cross-Disciplinary)\n\nCappozzo, A., McCrory, C., Robinson, O. et al. (2022)\nA blood DNA methylation biomarker for predicting short-term risk of cardiovascular events\nClinical Epigenetics 14, 121\n | \nCappozzo, A., Duponchel, L., Greselin, F., Murphy, T.B. (2021)\nRobust variable selection in the framework of classification with label noise and outliers: applications to spectroscopic data in agri-food\nAnalytica Chimica Acta, 1153, 338245\n |  |  |  Cover\n\nFor a full list of publications, including monographs and peer-reviewed conference proceedings, please see my CV."
   },
   {
     "objectID": "projects/index.html",
@@ -49,46 +28,11 @@
     "text": "Project II\nA description of Project"
   },
   {
-    "objectID": "short_bio.html",
-    "href": "short_bio.html",
+    "objectID": "contact.html",
+    "href": "contact.html",
     "title": "Home",
     "section": "",
-    "text": "Work experience\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2025/01 - Ongoing \n\n\nAssociate Professor\nDepartment of Statistical Sciences\nUniversità Cattolica del Sacro Cuore\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2024/02 - 2024/12 \n\n\nAssistant Professor (RTD-B)\nDepartment of Economics, Management, and Quantitative Methods\nUniversity of Milan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2021/04 - 2024/01 \n\n\nAssistant Professor (RTD-A)\nDepartment of Mathematics\nPolitecnico di Milano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2020/04 - 2021/03 \n\n\nPostdoctoral research fellow\nDepartment of Statistics and Quantitative Methods\nUniversity of Milano-Bicocca\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2015/09 - 2016/10 \n\n\nBusiness analyst and planner\nHP Inc, Barcelona\n\n\n\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2016/11 - 2020/02 \n\n\nPh.D. in Statistics and Mathematical Finance\nDoctor Europaeus\nUniversity of Milano-Bicocca\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2012/10 - 2015/04 \n\n\nM.Sc. in Statistical Sciences\nFinal mark: 110/110 with laude\nUniversity of Padua\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2009/10 - 2012/07 \n\n\nB.Sc. in Statistics and Management\nFinal mark: 110/110 with laude\nUniversity of Padua\n\n\n\n\n\n\nVisiting periods\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2018/03 - 2019/03 \n\n\nVisiting PhD Student\nSchool of Mathematics and Statistics\nUniversity College Dublin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2014/01 - 2014/06 \n\n\nExchange Semester\nSchool of Economics and Management\nTilburg University\n\n\n\n\n\n\nAwards\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2023/09 \n\n\nYoung Researcher Paper Award\nCLADAG 2023 14-th Scientific Meeting Classification and Data Analysis Group\nSalerno, Italy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2018/09 \n\n\nBest poster presentation\nMBC2 Workshop on Models and Learning for Clustering and Classification\nCatania, Italy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2017/09 \n\n\nMember of the third best team in terms of algorithm predictive accuracy\nYoung CLADAG - Data science competition\nPolitecnico di Milano, Italy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2017/06 \n\n\nMember of one of the four winning teams\nStats Under the Stars 3 - Data science competition\nUniversità degli Studi di Firenze, Italy"
-  },
-  {
-    "objectID": "short_bio.html#education",
-    "href": "short_bio.html#education",
-    "title": "Author",
-    "section": "Education",
-    "text": "Education\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\nUniversity of Oslo | Oslo, Norway\nMSc in Statistics | June 2018"
-  },
-  {
-    "objectID": "short_bio.html#experience",
-    "href": "short_bio.html#experience",
-    "title": "Author",
-    "section": "Experience",
-    "text": "Experience\nI have developed X R packages, published Y papers."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Home",
-    "section": "",
-    "text": "Preprints\n\nCappozzo, A., Casa, A. (2024+)\nModel-based clustering for covariance matrices via penalized Wishart mixture models\nSubmitted\n | \nCaldera, L., Masci, C., Cappozzo, A., Forlani, M., Antonelli, B., Leoni, O., Ieva, F. (2024+)\nUncover mortality patterns and hospital effects in COVID-19 heart failure patients: a novel Multilevel logistic cluster-weighted modeling approach\nSubmitted\n | \n\n\n\nArticles in Peer-Reviewed Journals (Statistics)\n\nCappozzo, A., Casa, A., Fop, M. (2024)\nSparse model-based clustering of three-way data via lasso-type penalties\nJournal of Computational and Graphical Statistics (just accepted)\n |  | \nMontani, G., Cappozzo, A. (2024)\nStacking model-based classifiers for dealing with multiple sets of noisy labels\nBiometrical Journal (just accepted)\n | \nCarlesso, L.M., Cappozzo, A., Manisera, M., Zuccolotto, P. (2024)\nScoring probability maps in the basketball court with Indicator Kriging estimation\nComputational Statistics (just accepted)\n |  Shiny App\nBenetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo, A., Denti, F. (2023)\nVariational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets\nAdvances in Data Analysis and Classification, 18, 681–703\n |  | \nCappozzo, A., Ieva, F., Fiorito, G. (2023)\nA general framework for penalized mixed-effects multitask learning with applications on DNA methylation surrogate biomarkers creation\nAnnals of Applied Statistics 17(4), 3257-3282\n |  | \nCappozzo, A., García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2023)\nGraphical and computational tools to guide parameter choice for the cluster weighted robust model\nJournal of Computational and Graphical Statistics 32(3),1195–1214\n | \nCasa, A., Cappozzo, A., Fop, M. (2022)\nGroup-wise shrinkage estimation in penalized model-based clustering\nJournal of Classification, 39(3), 648–674.\n |  | \nCappozzo, A., García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2021)\nParameter Choice, Stability and Validity for Robust Cluster Weighted Modeling\nStats 2021, 4(3)\n | \nDenti, F., Cappozzo, A., Greselin, F. (2021)\nA Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information\nStatistics and Computing, 32, 18\n |  | \nCappozzo, A., Greselin, F., Murphy, T.B. (2021)\nRobust variable selection for model-based learning in presence of adulteration\nComputational Statistics & Data Analysis, 158, 107186\n |  | \nCappozzo, A., Greselin, F., Murphy, T.B. (2020)\nAnomaly and Novelty detection for robust semi-supervised learning.\nStatistics and Computing, 30, 1545–1571\n |  | \nCappozzo, A., Greselin, F., Murphy, T.B. (2020)\nA robust approach to model-based classification based on trimming and constraints.\nAdvances in Data Analysis and Classification, 14(2), 327-354\n |  | \n\n\n\nArticles in Peer-Reviewed Journals (Cross-Disciplinary)\n\nCappozzo, A., McCrory, C., Robinson, O. et al. (2022)\nA blood DNA methylation biomarker for predicting short-term risk of cardiovascular events\nClinical Epigenetics 14, 121\n | \nCappozzo, A., Duponchel, L., Greselin, F., Murphy, T.B. (2021)\nRobust variable selection in the framework of classification with label noise and outliers: applications to spectroscopic data in agri-food\nAnalytica Chimica Acta, 1153, 338245\n |  |  |  Cover\n\nFor a full list of publications, including monographs and peer-reviewed conference proceedings, please see my CV."
-  },
-  {
-    "objectID": "publications.html#education",
-    "href": "publications.html#education",
-    "title": "Author",
-    "section": "Education",
-    "text": "Education\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\nUniversity of Oslo | Oslo, Norway\nMSc in Statistics | June 2018"
-  },
-  {
-    "objectID": "publications.html#experience",
-    "href": "publications.html#experience",
-    "title": "Author",
-    "section": "Experience",
-    "text": "Experience\nI have developed X R packages, published Y papers."
+    "text": "Andrea Cappozzo\nDepartment of Statistical Sciences\nUniversità Cattolica del Sacro Cuore\n Largo Gemelli, 1 20123 Milano\n Edificio Lanzone, 18 - Third floor\n andrea (dot) cappozzo (at) unicatt (dot) it"
   },
   {
     "objectID": "teaching.html",
@@ -98,59 +42,17 @@
     "text": "Principal Instructor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA.Y. 2024/2025\n\n\n\n\nAdvanced Multivariate Statistics\nM.Sc. in Data Science for Economics\nUniversity of Milan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA.Y. 2024/2025\n\n\n\n\nCoding for Data Science and Data Management (R coding module)\nM.Sc. in Data Science for Economics\nUniversity of Milan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA.Y. 2023/2024\n\n\n\n\nStatistica per big data economico/aziendali\nB.Sc. in Economics and Management\nUniversity of Milan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA.Y. 2021/2022 - A.Y. 2023/2024\n\n\n\n\nBiostatistics\nM.Sc. in Bioinformatics for Computational Genomics\nUniversity of Milan & Politecnico di Milano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA.Y. 2021/2022 - A.Y. 2023/2024\n\n\n\n\nNonparametric Statistics (Robust statistics module)\nM.Sc. in Mathematical Engineering\nPolitecnico di Milano\n\n\n\n\n\n\nTeaching Assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA.Y. 2021/2022 - A.Y. 2022/2023\n\n\n\n\nNonparametric Statistics\nM.Sc. in Mathematical Engineering\nPolitecnico di Milano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA.Y. 2019/2020 - A.Y. 2021/2022\n\n\n\n\nStatistica\nB.Sc. in Economics and Business\nUniversity of Milano-Bicocca\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA.Y. 2019/2020 - A.Y. 2020/2021\n\n\n\n\nMetodi Statistici\nB.Sc. in Economics and Business\nUniversity of Milano-Bicocca\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA.Y. 2017/2018\n\n\n\n\nStatistica\nB.Sc. in Economics\nBocconi University"
   },
   {
-    "objectID": "teaching.html#education",
-    "href": "teaching.html#education",
-    "title": "Author",
-    "section": "Education",
-    "text": "Education\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\nUniversity of Oslo | Oslo, Norway\nMSc in Statistics | June 2018"
-  },
-  {
-    "objectID": "teaching.html#experience",
-    "href": "teaching.html#experience",
-    "title": "Author",
-    "section": "Experience",
-    "text": "Experience\nI have developed X R packages, published Y papers."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "short_bio.html",
+    "href": "short_bio.html",
     "title": "Home",
     "section": "",
-    "text": "Andrea Cappozzo\nDepartment of Statistical Sciences\nUniversità Cattolica del Sacro Cuore\n Largo Gemelli, 1 20123 Milano\n Edificio Lanzone, 18 - Third floor\n andrea (dot) cappozzo (at) unicatt (dot) it"
+    "text": "Work experience\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2025/01 - Ongoing \n\n\nAssociate Professor\nDepartment of Statistical Sciences\nUniversità Cattolica del Sacro Cuore\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2024/02 - 2024/12 \n\n\nAssistant Professor (RTD-B)\nDepartment of Economics, Management, and Quantitative Methods\nUniversity of Milan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2021/04 - 2024/01 \n\n\nAssistant Professor (RTD-A)\nDepartment of Mathematics\nPolitecnico di Milano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2020/04 - 2021/03 \n\n\nPostdoctoral research fellow\nDepartment of Statistics and Quantitative Methods\nUniversity of Milano-Bicocca\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2015/09 - 2016/10 \n\n\nBusiness analyst and planner\nHP Inc, Barcelona\n\n\n\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2016/11 - 2020/02 \n\n\nPh.D. in Statistics and Mathematical Finance\nDoctor Europaeus\nUniversity of Milano-Bicocca\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2012/10 - 2015/04 \n\n\nM.Sc. in Statistical Sciences\nFinal mark: 110/110 with laude\nUniversity of Padua\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2009/10 - 2012/07 \n\n\nB.Sc. in Statistics and Management\nFinal mark: 110/110 with laude\nUniversity of Padua\n\n\n\n\n\n\nVisiting periods\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2018/03 - 2019/03 \n\n\nVisiting PhD Student\nSchool of Mathematics and Statistics\nUniversity College Dublin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2014/01 - 2014/06 \n\n\nExchange Semester\nSchool of Economics and Management\nTilburg University\n\n\n\n\n\n\nAwards\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2023/09 \n\n\nYoung Researcher Paper Award\nCLADAG 2023 14-th Scientific Meeting Classification and Data Analysis Group\nSalerno, Italy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2018/09 \n\n\nBest poster presentation\nMBC2 Workshop on Models and Learning for Clustering and Classification\nCatania, Italy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2017/09 \n\n\nMember of the third best team in terms of algorithm predictive accuracy\nYoung CLADAG - Data science competition\nPolitecnico di Milano, Italy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2017/06 \n\n\nMember of one of the four winning teams\nStats Under the Stars 3 - Data science competition\nUniversità degli Studi di Firenze, Italy"
   },
   {
-    "objectID": "contact.html#education",
-    "href": "contact.html#education",
-    "title": "Author",
-    "section": "Education",
-    "text": "Education\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\nUniversity of Oslo | Oslo, Norway\nMSc in Statistics | June 2018"
-  },
-  {
-    "objectID": "contact.html#experience",
-    "href": "contact.html#experience",
-    "title": "Author",
-    "section": "Experience",
-    "text": "Experience\nI have developed X R packages, published Y papers."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Andrea Cappozzo",
-    "section": "About me",
-    "text": "About me\nciao\n\nBreaking news\nFIXME"
-  },
-  {
-    "objectID": "index.html#breaking-news",
-    "href": "index.html#breaking-news",
-    "title": "Andrea Cappozzo",
-    "section": "Breaking news",
-    "text": "Breaking news\nFIXME"
-  },
-  {
-    "objectID": "publications.html#articles-in-refereed-journals",
-    "href": "publications.html#articles-in-refereed-journals",
-    "title": "Home",
     "section": "",
-    "text": "Benetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., Cappozzo, A., & Denti, F. (2023)\nVariational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets\nAdvances in Data Analysis and Classification (online first)\nlink | arXiv | code"
+    "text": "About me\n\nI am an Associate Professor of Statistics at the Department of Statistical Sciences of Università Cattolica del Sacro Cuore. I am currently based in Milan, Italy. My research focuses on applied statistics and statistical learning, with a particular emphasis on mixture modeling.\n\n\nResearch interests\n\n\n\n\n\n\n\nMixture models\nModel-based clustering and classification\nRobust statistics\n\n\n\n\nPenalized estimation\nVariable selection\nHealth Analytics\n\n\n\n\n\n\nBreaking news\n\n\nStarting January 1, 2025, I have joined the Department of Statistical Sciences at Università Cattolica del Sacro Cuore as an Associate Professor of Statistics!\nNew article! Sparse model-based clustering of three-way data via lasso-type penalties (joint work with Casa, A. and Fop, M.)\nNew article! Scoring probability maps in the basketball court with Indicator Kriging estimation (joint work with Carlesso, L. M., Manisera, M. and Zuccolotto, P.)"
   }
 ]
