@@ -1,1 +1,3 @@
-# academic-website_quarto
+Repo for academic style website.
+
+https://andreacappozzo.rbind.io
