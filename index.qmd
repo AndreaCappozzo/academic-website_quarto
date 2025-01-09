@@ -8,7 +8,7 @@ about:
   links:
     - icon: envelope-at
       # text: "Email address"
-      href: mailto:andrea.cappozzo@unimi.it
+      href: mailto:andrea.cappozzo@unicatt.it
     - icon: twitter
       # text: "Twitter"
       href: https://twitter.com/AndreaCappozzo
