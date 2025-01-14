@@ -6,6 +6,8 @@ about:
   template: trestles
   image-shape: round
   links:
+    - icon: person-badge
+      href: https://docenti.unicatt.it/ppd2/en/docenti/107871/andrea-cappozzo
     - icon: envelope-at
       # text: "Email address"
       href: mailto:andrea.cappozzo@unicatt.it
