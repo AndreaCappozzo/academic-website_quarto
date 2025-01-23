@@ -52,7 +52,7 @@ Group-wise shrinkage estimation in penalized model-based clustering
 
 1. **Cappozzo, A.**, García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2021)  
 Parameter Choice, Stability and Validity for Robust Cluster Weighted Modeling   
-*Stats 2021, 4(3)*  
+*Stats, 4(3)*  
 [{{< fa book >}}](https://www.mdpi.com/2571-905X/4/3/36) | [{{< fa brands github >}}](https://github.com/AndreaCappozzo/STATS-monitoring_CWRM)  
 
 1. Denti, F., **Cappozzo, A.**, Greselin, F. (2021)  
@@ -80,12 +80,12 @@ A robust approach to model-based classification based on trimming and constraint
 ### Articles in Peer-Reviewed Journals (Cross-Disciplinary)
 1. Mazzeo, L., Corso, F., Baili, P. et al. [including **Cappozzo, A.**] (2025)         
 Data analytics for real-world data integration in TKI-treated NSCLC patients using electronic health records.    
-*ESMO Real World Data and Digital Oncology*   
+*ESMO Real World Data and Digital Oncology, 7, 100109*   
 [{{< fa book >}}](https://www.sciencedirect.com/science/article/pii/S2949820124000870) 
 
 1. **Cappozzo, A.**, McCrory, C., Robinson, O. et al. (2022)  
 A blood DNA methylation biomarker for predicting short-term risk of cardiovascular events   
-*Clinical Epigenetics 14, 121*   
+*Clinical Epigenetics, 14, 121*   
 [{{< fa book >}}](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01341-4) | [{{< fa brands r-project >}}](https://github.com/AndreaCappozzo/mixedelnet)
 
 1. **Cappozzo, A.**, Duponchel, L., Greselin, F., Murphy, T.B. (2021)  
