@@ -78,6 +78,10 @@ A robust approach to model-based classification based on trimming and constraint
 
 
 ### Articles in Peer-Reviewed Journals (Cross-Disciplinary)
+1. Mazzeo, L., Corso, F., Baili, P. et al. [including **Cappozzo, A.**] (2025)         
+Data analytics for real-world data integration in TKI-treated NSCLC patients using electronic health records.    
+*ESMO Real World Data and Digital Oncology*   
+[{{< fa book >}}](https://www.sciencedirect.com/science/article/pii/S2949820124000870) 
 
 1. **Cappozzo, A.**, McCrory, C., Robinson, O. et al. (2022)  
 A blood DNA methylation biomarker for predicting short-term risk of cardiovascular events   
