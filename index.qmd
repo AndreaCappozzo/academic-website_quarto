@@ -11,9 +11,12 @@ about:
     - icon: envelope-at
       # text: "Email address"
       href: mailto:andrea.cappozzo@unicatt.it
-    - icon: twitter
-      # text: "Twitter"
-      href: https://twitter.com/AndreaCappozzo
+    # - icon: twitter
+    #   # text: "Twitter"
+    #   href: https://twitter.com/AndreaCappozzo
+    - icon: bluesky
+      text: "{{< iconify fa6-brands bluesky >}}"
+      href: https://bsky.app/profile/andreacappozzo.bsky.social
     - icon: google-scholar
       # text: "{{< ai google-scholar >}} Google Scholar"
       text: "{{< ai google-scholar >}}"
