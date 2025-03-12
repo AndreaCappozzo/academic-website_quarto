@@ -15,10 +15,10 @@ Uncover mortality patterns and hospital effects in COVID-19 heart failure patien
 
 ### Articles in Peer-Reviewed Journals (Statistics)
 
-<!-- 1. Montani, G., **Cappozzo, A.** (2025+)     -->
-<!-- Stacking model-based classifiers for dealing with multiple sets of noisy labels          -->
-<!-- *Biometrical Journal (conditionally accepted)*   -->
-<!-- [{{< fa book >}} ](FIXME) | [{{< fa brands github >}}](https://github.com/GiuliaMontani/density-based-ensemble-model) -->
+1. Montani, G., **Cappozzo, A.** (2025)  
+Stacking model-based classifiers for dealing with multiple sets of noisy labels  
+*Biometrical Journal, 67: e70042*  
+[{{< fa book >}} ](https://onlinelibrary.wiley.com/doi/10.1002/bimj.70042) | [{{< fa brands github >}}](https://github.com/GiuliaMontani/density-based-ensemble-model)
 
 1. **Cappozzo, A.**, Casa, A., Fop, M. (2024)  
 Sparse model-based clustering of three-way data via lasso-type penalties  
