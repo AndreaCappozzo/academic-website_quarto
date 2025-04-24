@@ -11,6 +11,30 @@ editor_options:
 :::: {layout="[10, 0, 25,65]"}
 
 ::: {#second-column}
+![](logos/logo_unicatt.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+<center>
+A.Y. 2024/2025 - Ongoing
+</center>
+<br>
+:::
+
+::: {#first-column}
+**Computational Statistics**   
+M.Sc. in Data Analytics for Business   
+*Università Cattolica del Sacro Cuore*  
+:::
+::::
+
+:::: {layout="[10, 0, 25,65]"}
+
+::: {#second-column}
 ![](logos/logo_unimi.png)
 :::
 
