@@ -11,8 +11,8 @@ Model-based clustering for covariance matrices via penalized Wishart mixture mod
 
 1. Caldera, L., Masci, C., **Cappozzo, A.**, Forlani, M., Antonelli, B., Leoni, O., Ieva, F. (2025)  
 Uncovering mortality patterns and hospital effects in COVID-19 heart failure patients: a novel Multilevel logistic cluster-weighted modeling approach  
-*Biometrics (to appear)*   
-[{{< ai arxiv >}}](https://arxiv.org/abs/2405.11239) | [{{< fa brands r-project >}}](https://github.com/luca2245/ML-CWMd)
+*Biometrics*   
+[{{< fa book >}} ](https://academic.oup.com/biometrics/article/81/2/ujaf046/8121043) | [{{< ai arxiv >}}](https://arxiv.org/abs/2405.11239) | [{{< fa brands r-project >}}](https://github.com/luca2245/ML-CWMd)
 | [{{< fa stethoscope >}} Shiny App](https://mcdhmq-luca-caldera.shinyapps.io/app-ml-cwmd/)
 
 

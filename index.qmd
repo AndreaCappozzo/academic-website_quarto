@@ -61,7 +61,7 @@ I am an Associate Professor of Statistics at the [Department of Statistical Scie
 <center>
 ### Breaking news
 </center>
-* [New article!](https://onlinelibrary.wiley.com/doi/10.1002/bimj.70042) Stacking model-based classifiers for dealing with multiple sets of noisy labels (joint work with Montani, G.)    
+* [New article!](https://academic.oup.com/biometrics/article/81/2/ujaf046/8121043) Uncovering mortality patterns and hospital effects in COVID-19 heart failure patients: a novel Multilevel logistic cluster-weighted modeling approach (joint work with Caldera, L., Masci, C., Ieva, F., et al.)    
 
 <!-- * [New article!](https://link.springer.com/article/10.1007/s00180-024-01564-4) Scoring probability maps in the basketball court with Indicator Kriging estimation (joint work with Carlesso, L. M., Manisera, M. and Zuccolotto, P.)  -->
 
