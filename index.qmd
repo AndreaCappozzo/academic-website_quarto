@@ -61,6 +61,8 @@ I am an Associate Professor of Statistics at the [Department of Statistical Scie
 <center>
 ### Breaking news
 </center>
+* [New preprint!](https://arxiv.org/abs/2507.12230) Cluster-weighted modeling of lifetime hierarchical data for profiling COVID-19 heart failure patients (joint work with Caldera, L., Masci, C., Paganoni, A.M., Ieva, F., et al.)    
+
 * [New article!](https://www.sciencedirect.com/science/article/pii/S0167947325001082) Model-based clustering for covariance matrices via penalized Wishart mixture models (joint work with Casa, A.)    
 
 <!-- * [New article!](https://link.springer.com/article/10.1007/s00180-024-01564-4) Scoring probability maps in the basketball court with Indicator Kriging estimation (joint work with Carlesso, L. M., Manisera, M. and Zuccolotto, P.)  -->

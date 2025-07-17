@@ -1,5 +1,10 @@
 
-<!-- ### Preprints -->
+### Preprints
+
+1. Caldera, L., **Cappozzo, A.**, Masci, C., , Forlani, M., Antonelli, B., Leoni, O., Paganoni, A. M., Ieva, F. (2025+)  
+Cluster-weighted modeling of lifetime hierarchical data for profiling COVID-19 heart failure patients  
+*Submitted*   
+[{{< ai arxiv >}} arXiv](https://arxiv.org/abs/2507.12230) | [{{< fa brands r-project >}} Code](https://github.com/AndreaCappozzo/mixparfmCWM)
 
 ### Articles in Peer-Reviewed Journals (Statistics)
 
