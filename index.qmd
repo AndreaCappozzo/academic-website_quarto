@@ -15,7 +15,7 @@ about:
     #   # text: "Twitter"
     #   href: https://twitter.com/AndreaCappozzo
     - icon: bluesky
-      text: "{{< iconify fa6-brands bluesky >}}"
+      # text: ""
       href: https://bsky.app/profile/andreacappozzo.bsky.social
     - icon: google-scholar
       # text: "{{< ai google-scholar >}} Google Scholar"
