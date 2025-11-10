@@ -83,8 +83,13 @@ A robust approach to model-based classification based on trimming and constraint
 
 
 ### Articles in Peer-Reviewed Journals (Cross-Disciplinary)
+1. Corso, F., Baili, P. et al. [including **Cappozzo, A.**] (2025)         
+Cost-effectiveness of first-line osimertinib informed by electronic medical records via text-mining: a real-world Italian case study of EGFR-mutated advanced NSCLC patients    
+*ESMO Real World Data and Digital Oncology*   
+[{{< fa book >}} Paper](https://www.sciencedirect.com/science/article/pii/S2949820125000876) 
+
 1. Mazzeo, L., Corso, F., Baili, P. et al. [including **Cappozzo, A.**] (2025)         
-Data analytics for real-world data integration in TKI-treated NSCLC patients using electronic health records.    
+Data analytics for real-world data integration in TKI-treated NSCLC patients using electronic health records    
 *ESMO Real World Data and Digital Oncology*   
 [{{< fa book >}} Paper](https://www.sciencedirect.com/science/article/pii/S2949820124000870) 
 

@@ -1,16 +1,16 @@
 /*-- scss:defaults --*/
 
 // fonts
-$font-family-sans-serif: "Gill Sans", sans-serif !default; 
+$font-family-sans-serif: "Gill Sans", sans-serif !default;
 
 // Main colors
 $body-bg: #ffffff !default;
 $body-color: #35383a !default;
 $selection-bg: #fff !default;
-$link-color: #71a4c9; 
+$link-color: #71a4c9;
 
 // Title colors
-$headings-color: #35383a; 
+$headings-color: #35383a;
 
 // Navigation bar colors
 
