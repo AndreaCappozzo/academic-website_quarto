@@ -12,7 +12,7 @@ website:
   # repo-actions: [edit, issue]
 
   page-footer:
-    left: "&copy;2025 Andrea Cappozzo"
+    left: "&copy;2026 Andrea Cappozzo"
     right: "Powered by [Quarto](https://quarto.org/) with the invaluable support of [qtwAcademic](https://chizapoth.github.io/qtwAcademic/)"
 
   navbar:
