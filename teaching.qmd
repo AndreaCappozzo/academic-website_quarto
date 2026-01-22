@@ -26,6 +26,30 @@ A.Y. 2025/2026 - Ongoing
 :::
 
 ::: {#first-column}
+**Business Analytics**   
+M.Sc. in Management     
+*Università Cattolica del Sacro Cuore*  
+:::
+::::
+
+:::: {layout="[10, 0, 25,65]"}
+
+::: {#second-column}
+![](logos/logo_unicatt.png)
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
+<center>
+A.Y. 2025/2026 - Ongoing
+</center>
+<br>
+:::
+
+::: {#first-column}
 **Applied Statistics and Big Data**   
 B.Sc. in Economics and Management     
 *Università Cattolica del Sacro Cuore*  
