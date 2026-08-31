@@ -61,11 +61,12 @@ I am an Associate Professor of Statistics at the [Department of Statistical Scie
 <center>
 ### Breaking news
 </center>
-* [New preprint!](https://arxiv.org/abs/2507.12230) Cluster-weighted modeling of lifetime hierarchical data for profiling COVID-19 heart failure patients (joint work with Caldera, L., Masci, C., Paganoni, A.M., Ieva, F., et al.)    
+<!-- * [New preprint!](https://arxiv.org/abs/2507.12230) Cluster-weighted modeling of lifetime hierarchical data for profiling COVID-19 heart failure patients (joint work with Caldera, L., Masci, C., Paganoni, A.M., Ieva, F., et al.)     -->
 
-* [New article!](https://www.sciencedirect.com/science/article/pii/S0167947325001082) Model-based clustering for covariance matrices via penalized Wishart mixture models (joint work with Casa, A.)    
+* [New article!](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-0163/html?srsltid=AfmBOop-SWC6i_KGqRAGxtbUBBBYj-d1a1H0sbuI3dOs8zwMbiwAnNO3) A mixed-effects spatial point process framework for modeling player shooting behavior in basketball (joint work with Carlesso, L. M., Gilardi, A. and Zuccolotto, P.)
 
-<!-- * [New article!](https://link.springer.com/article/10.1007/s00180-024-01564-4) Scoring probability maps in the basketball court with Indicator Kriging estimation (joint work with Carlesso, L. M., Manisera, M. and Zuccolotto, P.)  -->
+* I have been appointed Associate Editor for the journal [Statistical Methods and Applications](https://link.springer.com/journal/10260/editorial-board)
+* I am delighted to have received the second prize in the [Young Researchers’ Award for Contributions to Statistical Sciences](https://www.sis-statistica.it/ita/10009/Premio+a+giovani+studiosi+e+studiose+per+contributi+alle+discipline+statistiche), awarded by the Italian Statistical Society (SIS).
 
 :::
 
