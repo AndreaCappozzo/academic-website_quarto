@@ -269,6 +269,24 @@ School of Economics and Management
 
 ::: {#date-column}
 <br>
+2026/06
+<br>
+:::
+
+::: {#first-column}
+**Young Researchers’ Award for Contributions to Statistical Sciences (second prize)**  
+Italian Statistical Society (SIS)     
+*Rome, Italy*
+:::
+
+::: {#middle-column}
+:::
+
+::: {#middle-column}
+:::
+
+::: {#date-column}
+<br>
 2023/09
 <br>
 :::
